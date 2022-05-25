@@ -1,5 +1,5 @@
 # TIPO
-# The Independent Program manager
+# The Independent Program Organizer
 
 Simple Project Manager for our personal use
 
