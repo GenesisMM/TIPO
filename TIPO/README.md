@@ -1,3 +1,10 @@
+# TIPO
+# The Independent Program manager
+
+Simple Project Manager for our personal use
+
+----------------------------------------
+# React Notes
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
