@@ -1,7 +1,11 @@
 import React, { Component } from 'react';
 import './App.css';
+import Project from './Project.js';
 
 class App extends Component {
+
+    projectOne = new Project();
+
     render() {
         return (
             <div className="App">
