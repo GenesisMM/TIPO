@@ -9,9 +9,9 @@
 
 .App-header {
   background-color: steelblue;
-  height: 10%;
-  width: 100%;
-  padding: 3%;
+  height: 10vh;
+  width: 100vh;
+  padding: 3vh;
   display: flex;
   flex-direction: row;
   align-items: center;
