@@ -11,7 +11,7 @@ class App extends Component {
             <div className="App">
                 <header className="App-header">
                     <h1>TIPO</h1>
-                    <p>{ this.projectOne.name }</p>
+                    <p>{ this.projectOne.getId() }</p>
                     <button onclick="">
                         Settings
                     </button>
